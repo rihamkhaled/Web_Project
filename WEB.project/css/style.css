@@ -1,0 +1,188 @@
+nav{ 
+  padding-top: 50px;
+   padding-left: 100px;
+  }
+nav a{
+   text-decoration: none;
+   color: rgba(0,0,0,.49);
+   font-size: 15px;
+   font-family: freight-display-pro;
+  }
+  nav a:hover{ 
+      text-decoration: none;
+       color: #3d6870;}
+
+#logo{
+      font-size: 24px;
+       padding-right: 20px;
+      color: #3d6870;
+  }
+nav li{
+  list-style-type: none;
+      display: inline-block; 
+      padding-right:15px ;
+   }
+   
+*{
+  padding:0;
+  margin:0;
+}
+.t1{
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 60px;
+  color: #3d6870;
+}
+.p1{
+  font-size: 20px;
+} 
+.hm{
+  font-size: 15px;
+  color: #acabb8;
+  width: 50%;
+}
+ .i{
+  color:grey;
+  font-size: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input {
+  background-color: #fafafa;
+  border:1px solid #d2d2d2;
+  height: 38px;
+  width: 195px;
+}
+.m1{
+  font-size: 12px;
+  margin-right: 15px;
+}
+.f1{
+  margin-right: 130px;
+  color:grey;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.l{
+  color:grey;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.e{
+ width: 400px;
+}
+.ss{
+  color:grey;
+ font-size: 15px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title1{
+  color:grey; 
+}
+
+.o1{
+  color:grey;
+  font-size: 18px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.datee{
+  width: 40px;
+  height: 40px;
+}
+
+.area{
+  background-color: #fafafa;
+  border:1px solid #d2d2d2;
+  height: 100px;
+  width: 400px;
+
+}
+.subbb{
+  font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    background-color: #3d6870;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+    /*form*/
+    #form1{
+      width:80%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 150px;
+      padding-top: 50px;
+      padding-left: 130px;
+      padding-right: 50px;
+     
+      background-color:rgba(122,125,127,.1);
+
+
+  }
+  #form1 input{ border: 1px solid rgba(0,0,0,.12);
+   width: 230px;
+  height: 50px;
+  color: #272727;
+ padding-left:15px ;
+ margin-right: 6px;
+  font-size: 14px;
+  outline: rgba(0,0,0,.12);
+}
+
+  button{ 
+      width: 113px;
+      height: 50px;
+      font-size: 12px;
+      background-color: #3d6870;
+      border: #3d6870;
+      color: white;
+  
+     
+  }
+  button:hover{ background-color: #61777b;}
+  #form1 h2{ color: #7a7d7f;
+           font-family: freight-display-pro;
+          margin-left: 150px;
+          height:50px ;
+      }
+      #form1 p{
+          color: rgba(61,104,112,.8);
+          margin-left: 270px;
+          height: 50px;
+          font-size: 15px;
+      }
+
+
+  /* footer*/
+  footer{
+       width: 80%;  
+       margin-left: auto;
+       margin-right: auto; 
+       margin-top: 130px;
+       color: #7a7d7f;
+       font-size: 12px; 
+       line-height: 11px;  
+       letter-spacing: 1px; 
+       font-family: freight-sans-pro; 
+       margin-bottom: 40px;}
+
+
+        .section1{ display: inline-block;}
+        .section2{ display: inline-block; margin-left: 50px;}
+
+
+  .section2 a{ 
+       color:#7a7d7f ;
+       text-decoration: underline;
+       letter-spacing: 1px;}
+  .section3{
+       display: inline-block;   
+       margin-left: 80%;  
+       position: relative;
+       bottom: 150px;
+       letter-spacing: 2px;
+  }
+  .section3 a{text-decoration: underline; color:#7a7d7f ; } 
